@@ -1,0 +1,12 @@
+{
+    "name": "sourcemint-pm-tar",
+    "version": "0.1.0",
+    "pm": "npm",
+    "engines": {
+        "node": ">= 0.6.15"
+    },
+    "dependencies": {
+        "sourcemint-util-js": "0.1.x",
+        "tar": "~0.1.12"
+    }
+}
